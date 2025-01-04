@@ -1,0 +1,1 @@
+# Alzheimer-Brain-Tumour-Breast-Cancer-Covid-19-Heart-Disease-detection-using-machine-learning
