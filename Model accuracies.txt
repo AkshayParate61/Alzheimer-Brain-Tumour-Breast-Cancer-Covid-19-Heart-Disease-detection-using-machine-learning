@@ -1,0 +1,5 @@
+covid: 93% (CNN) (Sequential)
+brain tumor: 95% (because we just tested on 10 images)(CNN,VGG16)
+breast cancer: 94.15% (Random Forest)
+alzheimer: 73.54% (CNN)
+heart disease: 86.96% (XGBoost)
